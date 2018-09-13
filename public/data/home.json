@@ -1,0 +1,115 @@
+{
+    "bannerList": [
+        {
+            "linkUrl": "/detail/1",
+            "src": "https:\/\/resource.smartisan.com\/resource\/752e932c9a169fff747dffde5153aaa7.png"
+        },
+        {
+            "linkUrl": "/detail/2",
+            "src": "https:\/\/resource.smartisan.com\/resource\/86ae40ac9e4a8a70810c1eea71ca9b96.png"
+        },
+        {
+            "linkUrl": "/detail/3",
+            "src": "https:\/\/resource.smartisan.com\/resource\/088f18d770c23b3f413eee687e13b7d6.png"
+        }
+    ],
+    "shortcutList": [
+        {
+            "labelTitle": "手机",
+            "linkUrl": "/category/64",
+            "src": "https:\/\/resource.smartisan.com\/resource\/80c2d2bda675cf269e17f2f812c7c3f1.png"
+        },
+        {
+            "labelTitle": "数码办公",
+            "linkUrl": "/category/82",
+            "src": "https:\/\/resource.smartisan.com\/resource\/166333e81f28af4c7538541b1c90900d.png"
+        },
+        {
+            "labelTitle": "空气净化",
+            "linkUrl":  "/category/64",
+            "src": "https:\/\/resource.smartisan.com\/resource\/e98cfb0a63e8b8c80e5b87ca66bda64c.png"
+        },
+        {
+            "labelTitle": "官方配件",
+            "linkUrl":  "/category/71",
+            "src": "https:\/\/resource.smartisan.com\/resource\/f9a5b8819b634ef59233506226707541.png"
+        },
+        {
+            "labelTitle": "品牌周边",
+            "linkUrl":  "/category/71",
+            "src": "https:\/\/resource.smartisan.com\/resource\/75892aebb63f998fa9b37e9a18984a98.png"
+        }
+    ],
+    "productList": [
+        {
+            "id": "1000",
+            "name": "坚果 R1",
+            "intro": "次世代旗舰手机",
+            "price": 3499.00,
+            "src": "new-1.webp"
+        },
+        {
+            "id": "1001",
+            "name": "坚果 TNT 工作站（显示器）",
+            "intro": "来自未来，改变一切",
+            "price": 9999.00,
+            "src": "new-2.webp"
+        },
+        {
+            "id": "1002",
+            "name": "坚果 Pro2 特别版",
+            "intro": "漂亮得不像实力派",
+            "price": 1899.00,
+            "src": "new-3.webp"
+        },
+        {
+            "id": "1003",
+            "name": "坚果蓝牙小黑耳机",
+            "intro": "一副干净的蓝牙耳机",
+            "price": 99.00,
+            "src": "new-4.webp"
+        },
+        {
+            "id": "1004",
+            "name": "坚果 QuickCharge 4+ 快速充电器",
+            "intro": "全面兼容的 18w 快速充电",
+            "price": 59.00,
+            "src": "new-5.webp"
+        },
+        {
+            "id": "1005",
+            "name": "坚果闹钟式无线充电座",
+            "intro": "别具一格的闹钟显示",
+            "price": 299.00,
+            "src": "new-6.webp"
+        }
+    ],
+    "adList": [
+        {
+            "id": "1201",
+            "src": "ad-1.webp"
+        },
+        {
+            "id": "1202",
+            "src": "ad-2.webp"
+        },
+        {
+            "id": "1203",
+            "src": "ad-3.webp"
+        },
+        {
+            "id": "1204",
+            "src": "ad-4.webp"
+        }
+    ],
+    "floorList": [
+        {
+            "id": "1901",
+            "src": "floor-1.webp"
+        },
+        {
+            "id": "1902",
+            "src": "floor-2.webp"
+        }
+    ]
+}

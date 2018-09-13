@@ -1,0 +1,62 @@
+{
+    "code": 0,
+    "data": {
+        "list": [
+            {
+                "id": 1000479,
+                "name": "坚果 Pro 2 特别版",
+                "price": 1899,
+                "description": "漂亮得不像实力派",
+                "size": ["6G + 64GB"],
+                "buy_give": 1,
+                "buy_add": 0,
+                "color_value": ["#0B0B10", "#efefef", "#435355"],
+                "src": "img/category/list/pro2_special.webp"
+            },
+            {
+                "id": 1000464,
+                "name": "坚果 R1",
+                "price": 3499,
+                "description": "次世代旗舰手机",
+                "size": ["6G + 64GB", "6G + 128GB", "8G + 128GB", "8G + 1T"],
+                "buy_give": 0,
+                "buy_add": 0,
+                "color_value": ["#0B0B10", "#efefef"],
+                "src": "img/category/list/r1.webp"
+            },
+            {
+                "id": 1000406,
+                "name": "坚果 3",
+                "price": 1299,
+                "description": "漂亮得不像实力派",
+                "size": ["4G + 32GB", "4G + 64GB", "4G + 128GB"],
+                "buy_give": 0,
+                "buy_add": 1,
+                "color_value": ["#0B0B10", "#efefef", "#0B0B10", "#111111", "#111111"],
+                "src": "img/category/list/jianguo3.webp"
+            },
+            {
+                "id": 1000485,
+                "name": "坚果 PRO2",
+                "price": 1799,
+                "description": "漂亮得不像实力派",
+                "size": ["4G + 32GB", "4G + 64GB", "6G + 64GB", "6G + 128GB", "6G + 256GB"],
+                "buy_give": 0,
+                "buy_add": 0,
+                "color_value": ["#0B0B10", "#efefef", "#0B0B10", "#efefef"],
+                "src": "img/category/list/pro2.webp"
+            },
+            {
+                "id": 1000490,
+                "name": "坚果 PRO",
+                "price": 1499,
+                "description": "漂亮得不像实力派",
+                "size": ["32GB", "64GB", "128GB"],
+                "buy_give": 0,
+                "buy_add": 0,
+                "color_value": ["#0B0B10", "#efefef", "#0B0B10", "#efefef", "#0B0B10"],
+                "src": "img/category/list/pro.webp"
+            }
+        ]
+    }
+}

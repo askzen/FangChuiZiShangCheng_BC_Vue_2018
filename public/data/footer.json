@@ -1,0 +1,22 @@
+[
+    {
+        "id": "index",
+        "text": "首页",
+        "src": "foot-1.png"
+    },
+    {
+        "id": "category",
+        "text": "分类",
+        "src": "foot-2.png"
+    },
+    {
+        "id": "cart",
+        "text": "购物车",
+        "src": "foot-3.png"
+    },
+    {
+        "id": "user",
+        "text": "个人中心",
+        "src": "foot-4.png"
+    }
+]

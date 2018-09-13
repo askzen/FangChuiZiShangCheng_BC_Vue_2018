@@ -1,0 +1,37 @@
+{
+    "code": 0,
+    "data": {
+        "list": [
+            {
+                "id": 1000501,
+                "name": "坚果 TNT 工作站（显示器）",
+                "price": 9999,
+                "description": "来自未来，改变一切",
+                "buy_give": 0,
+                "buy_add": 0,
+                "color_value": ["#435355"],
+                "src": "img/category/smbg_list/tnt.webp"
+            },
+            {
+                "id": 1000502,
+                "name": "坚果黑圆鼠标",
+                "price": 299,
+                "description": "一只手就能握住的满分设计",
+                "buy_give": 0,
+                "buy_add": 0,
+                "color_value": ["#0B0B10"],
+                "src": "img/category/smbg_list/mouse.webp"
+            },
+            {
+                "id": 1000503,
+                "name": "坚果黑方键盘",
+                "price": 599,
+                "description": "设计感满分的高品质键盘",
+                "buy_give": 0,
+                "buy_add": 0,
+                "color_value": ["#0B0B10"],
+                "src": "img/category/smbg_list/keyboard.webp"
+            }
+        ]
+    }
+}

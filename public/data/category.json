@@ -1,0 +1,81 @@
+{
+    "errno": 0,
+    "data": {
+        "banner": {
+            "id": 4096,
+            "src": "banner.webp"
+        },
+        "list": [
+            {
+                "id": 4097,
+                "text": "坚果R1",
+                "src": "jianguor1.webp",
+                "doublePurchase": ""
+            },
+            {
+                "id": 4098,
+                "text": "坚果3",
+                "src": "jianguo3.webp",
+                "doublePurchase": "加购"
+            },
+            {
+                "id": 4099,
+                "text": "坚果Pro2",
+                "src": "jianguopro2.webp",
+                "doublePurchase": ""
+            }
+        ],
+        "tntWorkGroup": {
+            "id": 4100,
+            "src": "tnt.webp"
+        },
+        "pcComponents": [
+            {
+                "id": 4101,
+                "text": "坚果黑方键盘",
+                "src": "jianguo_black_square_keyboard.webp"
+            },
+            {
+                "id": 4102,
+                "text": "坚果黑圆鼠标",
+                "src": "jianguo_black_circle_mouse.webp"
+            }
+        ],
+        "officialWire": {
+            "id": 4103,
+            "src": "official_wire_rod.webp"
+        },
+        "chargingComponents": [
+            {
+                "id": 10008,
+                "text": "坚果 Type-C To Type-C 数据线",
+                "src": "typec_charging_rod.webp"
+            },
+            {
+                "id": 10009,
+                "text": "原装充电器",
+                "src": "charging_head.webp"
+            },
+            {
+                "id": 4104,
+                "text": "耳机转接头",
+                "src": "earphone_transform.webp"
+            },
+            {
+                "id": 4105,
+                "text": "“电池形电池”移动电源",
+                "src": "portable_source.webp"
+            },
+            {
+                "id": 4106,
+                "text": "快充移动电源",
+                "src": "quick_charge.webp"
+            },
+            {
+                "id": 4107,
+                "text": "Smartisan 坚果自拍杆",
+                "src": "selfie_stick.webp"
+            }
+        ]
+    }
+}

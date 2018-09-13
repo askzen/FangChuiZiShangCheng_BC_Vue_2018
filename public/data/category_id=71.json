@@ -1,0 +1,62 @@
+{
+    "code": 0,
+    "data": {
+        "list": [
+            {
+                "id": 1000601,
+                "name": "坚果 Type-C To Type-C 数据线",
+                "price": 39,
+                "description": "TPE 环保材质，PTC 过温保护",
+                "buy_give": 0,
+                "buy_add": 0,
+                "sale-reduce": 0,
+                "color_value": ["#435355"],
+                "src": "img/category/cdxc_list/typec_rod.webp"
+            },
+            {
+                "id": 1000602,
+                "name": "“电池形电池”移动电源",
+                "price": 49,
+                "description": "Type-C 接口、轻巧便携",
+                "buy_give": 0,
+                "buy_add": 0,
+                "sale-reduce": 0,
+                "color_value": ["#0B0B10", "#0B0B10"],
+                "src": "img/category/cdxc_list/typec_rod.webp"
+            },
+            {
+                "id": 1000603,
+                "name": "快充移动电源",
+                "price": 149,
+                "description": "10000mAh 双向快充",
+                "buy_give": 0,
+                "buy_add": 0,
+                "sale-reduce": 1,
+                "color_value": ["#0B0B10", "#0B0B10"],
+                "src": "img/category/cdxc_list/typec_rod.webp"
+            },
+            {
+                "id": 1000602,
+                "name": "耳机转接头",
+                "price": 19,
+                "description": "即插即用、全面兼容",
+                "buy_give": 0,
+                "buy_add": 0,
+                "sale-reduce": 0,
+                "color_value": ["#0B0B10"],
+                "src": "img/category/cdxc_list/typec_rod.webp"
+            },
+            {
+                "id": 1000602,
+                "name": "原装充电器",
+                "price": 59,
+                "description": "18W 安全快充",
+                "buy_give": 0,
+                "buy_add": 0,
+                "sale-reduce": 0,
+                "color_value": ["#0B0B10", "#0B0B10"],
+                "src": "img/category/cdxc_list/typec_rod.webp"
+            }
+        ]
+    }
+}
